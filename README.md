@@ -29,3 +29,8 @@ Para ejecutar el proceso, sigue estos pasos:
 
 Puedes ajustar la configuración del proceso modificando el objeto `command` en el código. Esto incluye la configuración de las instancias de Spark, los buckets de almacenamiento y otros parámetros relacionados con el proceso.
 
+## 
+**Nota Importante**: Los archivos sensibles no han sido subidos al repositorio o han sido ocultados por razones de seguridad.
+
+Estos archivos contienen información confidencial, como contraseñas o claves de acceso, y no deben estar disponibles públicamente en un repositorio de código abierto.
+
